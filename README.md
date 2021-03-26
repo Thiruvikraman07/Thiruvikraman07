@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Thiruvikraman07
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning D&S
+- 📫 How to reach me vik.thiru007@gmail.com
