@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Thiruvikraman07
-- 👀 I’m interested in programming
+- 📫 I’m interested in programming
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me vik.thiru007@gmail.com
